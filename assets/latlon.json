@@ -1,0 +1,23 @@
+[
+  {
+    "sehir_adi": "Kahramanmaras",
+    "latitude": 37.575275,
+    "longitude": 36.922821
+  },
+  {
+    "sehir_adi": "Ankara",
+    "latitude": 39.925533,
+    "longitude": 32.866287
+  },
+  {
+    "sehir_adi": "Istanbul",
+    "latitude": 41.015137,
+    "longitude": 28.979530
+  },
+  {
+    "sehir_adi": "Malatya",
+    "latitude":38.356869,
+    "longitude": 38.309669
+  }
+
+]
